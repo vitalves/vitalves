@@ -1,4 +1,4 @@
-<div>
+<div style="background: linear-gradient(180deg, #0C7EB4 2%, #4D8789 80%);">
   <a href="https://instagram.com/vitalves" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
