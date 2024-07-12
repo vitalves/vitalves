@@ -17,3 +17,6 @@
 - 🔭 Trabalho atualmente com mais frequência com PHP!
 - 🌱 Sempre em busca do aperfeiçoamento!
 - 👯 E sempre disposto a ajudar...
+
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vitalves)
